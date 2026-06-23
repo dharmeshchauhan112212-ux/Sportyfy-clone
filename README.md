@@ -45,19 +45,6 @@ spotify-clone/
 
 ---
 
-## 💻 How to Run the Project
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/your-username/spotify-clone.git
-```
-
-2. Open the project folder.
-
-3. Double-click **index.html** or open it using **Live Server** in VS Code.
-
----
 
 ## 📸 Preview
 
@@ -93,7 +80,6 @@ This project is a front-end clone of Spotify's web player created for learning a
 
 Computer Engineering Student | Front-End Developer
 
-GitHub: https://github.com/dharmeshchauhan112212
 
 ---
 
